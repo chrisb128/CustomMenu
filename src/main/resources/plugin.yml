@@ -1,0 +1,4 @@
+name: Custom Menu
+version: ${project.version}
+main: info.chrisb.custommenu.CustomMenu
+api-version: 1.13
