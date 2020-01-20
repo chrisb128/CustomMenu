@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CustomMenu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomMenu_jar</output-path>
+    <root id="archive" name="CustomMenu.jar">
+      <element id="module-output" name="CustomMenu" />
+    </root>
+  </artifact>
+</component>
